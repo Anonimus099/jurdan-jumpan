@@ -8,7 +8,7 @@
 
 **🏀 Premium Interactive E-Commerce Experience**
 
-[🌐 Live Demo](https://anonimus099.github.io/jurdan-jumpman/) • [📖 Documentation](#features)
+[🌐 Live Demo](https://thearchitect099.github.io/jurdan-jumpman/) • [📖 Documentation](#features)
 
 </div>
 
